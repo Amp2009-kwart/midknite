@@ -55,6 +55,15 @@ section {
     padding: 100px 50px;
     text-align: center;
 }
+button {
+  background: #3b82f6;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  border: none;
+}
+
+
 
 #home {
     background: linear-gradient(to right, #00bfff, #1e90ff);
