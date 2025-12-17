@@ -6,10 +6,13 @@
 }
 
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #0d1117; 
+    background-image:
+    radial-gradient(#30363d 1px, transparent 1px);
+    background-size: 20px 20px;
+    color: #e6edf3; 
 }
 
 /* Header */
@@ -23,7 +26,7 @@ header {
 }
 
 header .logo img {
-    width: 50px;
+    width: 10px;
     border-radius: 50%;
 }
 
@@ -43,6 +46,10 @@ header nav a:hover {
     color: #00bfff;
 }
 
+
+button:hover {
+    background: #2563eb;
+}
 /* Sections */
 section {
     padding: 100px 50px;
