@@ -50,10 +50,7 @@ header nav a:hover {
 button:hover {
     background: #2563eb;
 }
-/* Sections */
-section {
-    padding: 100px 50px;
-    text-align: center;
+
 }
 button {
   background: #3b82f6;
@@ -61,6 +58,16 @@ button {
   padding: 12px 20px;
   border-radius: 8px;
   border: none;
+}
+
+
+
+
+
+/* Sections */
+section {
+    padding: 100px 50px;
+    text-align: center;
 }
 
 
