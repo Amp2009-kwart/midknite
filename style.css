@@ -94,6 +94,26 @@ nav {
   padding: 15px;
 }
 
+
+nav {
+  display: flex;
+  flex-wrap: wrap; /* allows links to move to next line if too long */
+  justify-content: center; /* centers links on small screens */
+  gap: 5px; /* consistent spacing */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 nav a {
   color: white;
   margin-right: 5px;
@@ -101,6 +121,7 @@ nav a {
   background-color: #1f2937; 
   padding: 6px 12px;         
   border-radius: 8px;
+  display: inline-block;
 }
 
 
