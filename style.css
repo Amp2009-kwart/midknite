@@ -80,8 +80,14 @@ button {
   border: none;
 }
 
+a:hover {
+  background-color: #38bdf8; 
+  color: #0f172a;
+}
+
+
 nav {
-  background: white;
+  background: black;
   padding: 15px;
 }
 
