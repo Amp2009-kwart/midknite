@@ -8,10 +8,11 @@
 }
 
 body {
-       margin: 0;
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #020617, #0f172a);
-  color: #e5e7eb;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #020617, #0f172a);
+    color: #e5e7eb;
 }
 
 
@@ -111,6 +112,21 @@ nav {
   justify-content: center; /* centers links on small screens */
   gap: 5px; /* consistent spacing */
 }
+
+
+
+
+
+
+
+.QUANTUM-page {
+  background-color: #020617;
+}
+
+
+
+
+
 
 
 
