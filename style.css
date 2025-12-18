@@ -27,7 +27,12 @@ body {
   margin: 0 auto;   /* center container */
 }
 
-
+.index-content {
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+    text-align: justify;
+}
 
 
 
