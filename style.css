@@ -80,9 +80,12 @@ button {
   border: none;
 }
 
-a:hover {
-  background-color: #38bdf8; 
-  color: #0f172a;
+a {
+  background-color: #1e293b; /* dark IT-style */
+  color: #ffffff;
+  padding: 8px 14px;
+  border-radius: 8px;
+  text-decoration: none;
 }
 
 
@@ -95,6 +98,9 @@ nav a {
   color: white;
   margin-right: 5px;
   text-decoration: none;
+  background-color: #1f2937; 
+  padding: 6px 12px;         
+  border-radius: 8px;
 }
 
 
