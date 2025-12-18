@@ -12,6 +12,29 @@ body {
   color: #e5e7eb;
 }
 
+
+
+
+
+
+nav ul li a.active {
+  background-color: #1e90ff;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Header */
 header {
     display: flex;
