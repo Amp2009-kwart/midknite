@@ -21,6 +21,11 @@ body {
 
 
 
+.container {
+  width: 90%;       /* relative to screen width */
+  max-width: 1200px; /* optional limit for desktop */
+  margin: 0 auto;   /* center container */
+}
 
 
 
