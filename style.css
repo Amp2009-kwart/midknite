@@ -121,7 +121,12 @@ nav {
   background-color: black;
 }
 
-
+.cyber-image {
+  width: 2000px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
 
 .QUANTUM-page {
